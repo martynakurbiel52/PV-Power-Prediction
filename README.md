@@ -1,2 +1,2 @@
 # PV-Power-Prediction
-Prediction of power from PV panels based on weather data 
+Prediction of power from PV panels based on weather data analysis
